@@ -27,7 +27,7 @@ def register():
 
 # Create main window
 window = tk.Tk()
-window.title("Event Registration")
+window.title("Event Registration Form")
 window.geometry("400x400")
 window.resizable(False, False)
 
